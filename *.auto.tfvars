@@ -1,0 +1,6 @@
+insecure = "true"
+project_name = "prj_demo"
+catalog_item_name = "Ubuntu VM"
+catalog_item_version = "1.0.0"
+deployment_name = "amdocs-demo-01"
+flavor = "medium"
