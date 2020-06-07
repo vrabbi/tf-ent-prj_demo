@@ -33,7 +33,7 @@ resource "vra_deployment" "this" {
 
   inputs = {
     flavor    = var.flavor
-    count     = var.vm_count
+    count     = 2
     username  = var.new_user
   }
   timeouts {
