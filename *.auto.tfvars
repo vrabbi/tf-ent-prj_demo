@@ -1,3 +1,3 @@
 insecure = "true"
-deployment_name = "amdocs-demo-02"
-flavor = "small"
+deployment_name = "amdocs-demo-01"
+flavor = "medium"
